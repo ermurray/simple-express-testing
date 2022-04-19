@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "express": "^4.17.3"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "simple-express-testing",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ermurray/simple-express-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ermurray/simple-express-testing/issues"
+  },
+  "homepage": "https://github.com/ermurray/simple-express-testing#readme",
+  "description": ""
 }
